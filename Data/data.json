@@ -53,5 +53,16 @@
     "price": "2.00",
     "organic": false,
     "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+  },
+  {
+    "id": 5,
+    "productName": "Apple",
+    "image": "🍎",
+    "from": "India",
+    "nutrients": "Vitamin A, Magnesium",
+    "quantity": "5 🍎",
+    "price": "12.00",
+    "organic": true,
+    "description": "Apples are a good source of fiber, vitamin C, and antioxidants. They also contain small amounts of other vitamins and minerals.Fiber can help you feel full and satisfied after eating. It can also help regulate blood sugar levels and improve digestion. Vitamin C is an antioxidant that can help protect your cells from damage. It is also important for the immune system. Antioxidants can help protect your cells from damage caused by free radicals.Apples can be enjoyed in many different ways. They are a healthy and refreshing snack that can help you stay full between meals. They can also be added to salads, smoothies, desserts, and pies. Apple juice is a healthy and refreshing drink."
   }
 ]
